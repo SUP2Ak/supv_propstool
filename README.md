@@ -1,11 +1,11 @@
 <h1 align="center"><u>supv_propstool<u></h1>
 
 
-[preview](https://streamable.com/p64c52)
+[preview](https://youtu.be/gqQ9WQ325eE
 
 __**Dependancy :**__
 
-- [supv_core: (version >= 0.3b)](https://youtu.be/gqQ9WQ325eE)
+- [supv_core: (version >= 0.3b)](https://github.com/SUP2Ak/supv_core/README.md)
 
 ____
 
