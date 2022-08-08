@@ -1,7 +1,7 @@
 <h1 align="center"><u>supv_propstool<u></h1>
 
 
-[preview](https://youtu.be/gqQ9WQ325eE
+[preview](https://youtu.be/gqQ9WQ325eE)
 
 __**Dependancy :**__
 
