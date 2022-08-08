@@ -1,0 +1,10 @@
+{
+    "enable": true,
+	"script": "supv_propstool",
+    "version": "1.0",
+    "changelog": [
+        "^8[Global]^2:",
+        "\t^3- ^3Init ^7Commit"
+    ],
+	"link": "https://github.com/SUP2Ak/supv_propstool"
+}
