@@ -3,9 +3,8 @@
 
 [preview](https://streamable.com/p64c52)
 
-__Dependancy :__
+__**Dependancy :**__
 
-- [supv_core: (version >= 0.3b)](https://github.com/SUP2Ak/supv_core/README.md)
 - [supv_core: (version >= 0.3b)](https://github.com/SUP2Ak/supv_core/README.md)
 
 ____
