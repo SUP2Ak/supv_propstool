@@ -5,7 +5,7 @@
 
 __**Dependancy :**__
 
-- [supv_core: (version >= 0.3b)](https://github.com/SUP2Ak/supv_core/README.md)
+- [supv_core: (version >= 0.3b)](https://youtu.be/gqQ9WQ325eE)
 
 ____
 

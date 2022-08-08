@@ -112,10 +112,8 @@ local function Start(model)
     })
 
     while props do
-        Wait(0)
 
-        if not DoesEntityExist(props.object) then return false, print("Ce props n'existe pas!") end
-        if not props then return false end
+        if not DoesEntityExist(props.object) then return false, print("Ce props n'existe pas! / This props not exist!") end
 
         if IsControlJustPressed(0, 314) then selector = not selector end
 
